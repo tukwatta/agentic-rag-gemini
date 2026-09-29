@@ -1,0 +1,15 @@
+Acme Corp Employee Handbook - Leave and Work Policy
+
+Vacation: Every full-time employee receives 20 vacation days per calendar year.
+Up to 5 unused vacation days can be carried over into the next year.
+
+Sick leave: Employees receive 10 paid sick days per year. A doctor's note is
+required after 3 consecutive sick days.
+
+Remote work: Employees may work remotely up to 3 days per week with their
+manager's approval. Core hours are 10:00 to 15:00 in the office's local time.
+
+Office closures: The office is closed on all public holidays and on December 24.
+
+Expenses: Travel expenses must be submitted within 30 days. Meals are reimbursed
+up to 50 dollars per day when travelling.

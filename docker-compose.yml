@@ -1,0 +1,14 @@
+services:
+  app:
+    build: .
+    ports:
+      - "8501:8501"          # host_port:container_port
+    env_file: .env           # API key, password, model name injected at runtime
+    volumes:
+      - chroma_data:/data            # vector DB survives restarts and rebuilds
+      - model_cache:/root/.cache     # embedding model is downloaded only once
+    restart: unless-stopped  # auto-start after a crash or an EC2 reboot
+
+volumes:
+  chroma_data:
+  model_cache:
